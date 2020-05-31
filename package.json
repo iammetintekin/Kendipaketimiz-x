@@ -1,0 +1,22 @@
+{
+  "name": "deneme-xmetintekin",
+  "version": "1.0.0",
+  "description": "Bu bir deneme paketi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "metin": "echo 'No Problem: no test specified'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Metin Tekin",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.16",
+    "nodemailer": "^6.4.8",
+    "simple-is": "^0.2.0"
+  }
+}
